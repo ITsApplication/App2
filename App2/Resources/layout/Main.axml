@@ -47,7 +47,7 @@
                 android:id="@+id/editText1"
                 android:hint="@string/email"
                 android:textColorHint="@android:color/darker_gray"
-                android:textColor="@color/black" />
+                android:textColor="@color/black"/>
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
