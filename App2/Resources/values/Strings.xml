@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Kalender</string>
+  <string name="email">Fyll i din e-post</string>
+  <string name="password">Lösenord</string>
+</resources>
