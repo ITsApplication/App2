@@ -24,6 +24,8 @@ namespace App2
 
 
             if (emailBool == 0)
+            
+            // ingen ifelse?
             {
                 System.Console.WriteLine("Enter a valid email adress!");
             }
